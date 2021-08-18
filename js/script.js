@@ -19,6 +19,8 @@ document.getElementById("inputs").addEventListener("click", function (event) {
     return;
   } else if (number == "C") {
     resultInput.innerText = "";
+  } else if (number == "=") {
+    return;
   } else {
     resultInput.innerText = newNumber;
   }
