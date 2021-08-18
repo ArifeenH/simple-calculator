@@ -38,7 +38,7 @@ h4 {
 .row {
   display: flex;
   align-items: center;
-  width: 100%;
+  width: 385px;
   background-color: #2d2c2d;
 }
 
