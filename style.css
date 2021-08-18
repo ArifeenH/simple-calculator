@@ -19,7 +19,7 @@ h4 {
   padding: 10px 0px 0px 10px;
 }
 .result-container {
-  padding: 20px 0px;
+  height: 100px;
 }
 .result-text {
   text-align: right;
