@@ -24,12 +24,12 @@ h4 {
 .result-text {
   text-align: right;
   padding: 30px 10px 10px 0px;
-  width: 100%;
+  width: 385px;
   overflow: hidden;
 }
 
 .calculator {
-  width: 25vw;
+  width: 385px;
   background: #fff;
   border-radius: 5px;
   box-shadow: -5px 5px 10px rgb(15, 15, 15);
